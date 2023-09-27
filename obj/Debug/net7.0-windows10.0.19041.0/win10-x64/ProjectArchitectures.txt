@@ -1,0 +1,1 @@
+D:\Tuturiales MAUI\CursoC#\GraficosImagenes\GraficosImagenes.csproj;x64
